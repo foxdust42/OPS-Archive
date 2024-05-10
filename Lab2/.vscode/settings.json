@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "time.h": "c",
+        "wait.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "struct_timespec.h": "c"
+    }
+}
